@@ -1,0 +1,27 @@
+OBJETIVO DE AULA DE HOJE 20/10/2022
+	*PRIMEIRA ETAPA:Iniciar a Maquina Virtual do Linux Mint
+	*SEGUNDA ETAPA:Caso queira atualizar o sistema :
+	°01- ultilizar o MintUpdate
+	°02- ultilizar o terminal - apt
+		ATALHO: CTRL+ALT+T
+			sudo apt Update
+			sudo apt Uprade
+			sudo apt full-upgrade
+			sudo apt dist-upgradesudo aptautoremove
+			sudo apt autoclean
+	*TERCEIRA ETAPA: instalar o sofware (LINUX)
+		Microsoft - EXE ou MSI
+		~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+		Linux mint 15 - .DEB
+		Google Chrome - 64bits .deb
+		Opera Linux
+		Gdebi -> instala pacodes no computador
+		~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+		*PESQUISAS*
+		Dependemcias
+		Central de aplicativos
+		terminal - apt
+		~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+		sudo apt intall
+		
+		tebe ele ajuda nom complemento da palavra
