@@ -1,0 +1,51 @@
+# PRIMEIRA ETAPA:   Windows 	GNU/Linux 
+particionamento   NTFS/FAT32  	  EXT4
+
+#SEGUNDA ETAPA: 	Windows			GNU/LINUX
+redes (TCP/IPv4)    ipconfig		ifconfig
+				   ipconfig/all		route -n 
+				   					resolvectl
+					nslookup        nslookup
+					ping			ping
+									
+					
+RX R = Receptor
+TX = Transmissor
+dns = RESPONSAVEL PELA TRADUÇAO DO NOME PARA O IP OU IP PARA O NOME. . .
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+										COMANDOS
+ifconfig = CONFIGURAÇOES
+route -n = ROTAS PARA MOSTRAR OS NUMEROS DE IP
+resolvectl = controle
+todos os comandos que tiver (ctl) = controle
+nslookup = ns:TRADUÇAO DE NOME lookupPESQUISAR/VERIFICAR 
+ping = TESTAR A COMUNICAÇAO/REDES
+(CTRL C = PARAR O COMANDO)
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+#TERCEIRA ETAPA:		Windows 		|    GNU/Linux
+										            | tab é fundamental
+										            | pwd
+						        dir ls	    | ls -lh = verificar se foi criado
+					          	cd	      | cd = ENTRAR NA PASTA 
+					            md		    | mkdir = CRIAR DIRETORIO
+										            | touch README.md = leia me
+										            | git pull = VERIFICAR
+										            | git add . = aceitar as mudanças locais
+										            | git status = ver o que esta acontecendo
+										            | git commit -m "Atualizacao" = PARA 
+										            | mv = mover (renomear) mv = origem e destino
+										            | cp -v = copiar = origem e destino 
+                                | echo = imprimir na tela 
+                                | > = achar a pasta . . 
+                                | cat -n = ver o conteudo do arquivo sem abrir
+                                | listar o arquivo e escolher as linhas 
+                                | head = lista o inicio do arquivo
+                                | tail =  verifica o final do arquivo
+                                | se vc coloca -n20 nos comando head e tail ele vai 
+                                | ler as 20 primeira ou ultimas lihas
+                                | O | serve para filtrar o conteudo
+                                | less =visualizador de arquivo 
+                                | COMANDO PARA LER DA LINHA 100 ATÉ A LINHA 200
+                                | cat -n /etc/services | head -200 | tail -100 | less
+                             
